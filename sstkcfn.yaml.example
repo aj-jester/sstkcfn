@@ -1,0 +1,8 @@
+aws:
+  access_key_id: ''
+  secret_access_key: ''
+  region: 'us-east-1'
+
+template:
+  stack_dir: '/home/username/stacks.example'
+  max_bytesize: 51_200 # Set by AWS, do not change.

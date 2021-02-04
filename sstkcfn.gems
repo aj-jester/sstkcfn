@@ -1,0 +1,6 @@
+# sstkcfn.gems generated gem export file. Note that any env variable settings will be missing. Append these after using a ';' field separator
+
+aws-sdk -v2.3.10
+cfndsl -v0.8.9
+cri -v2.7.0
+text-table -v1.2.4
